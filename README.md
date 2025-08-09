@@ -49,4 +49,4 @@ Features
 
 Author
 
-Developed by Riggved Wankhade, Krishna YAmsalwar Siddhesh Amrutkar and Shreeram Ujlambkar with help from Smartbridge MERN Stack course.
+Developed by Riggved Wankhade, Krishna Yamsalwar Siddhesh Amrutkar and Shreeram Ujlambkar with guidance from Smartbridge.
