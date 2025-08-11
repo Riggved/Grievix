@@ -1,0 +1,13 @@
+{
+  "name": "complaint-registery-root",
+  "private": true,
+  "scripts": {
+    "start:mongo": "brew services start mongodb-community",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "dev": "npm-run-all --parallel start:mongo start:backend start:frontend"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
